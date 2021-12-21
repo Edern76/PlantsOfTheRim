@@ -2,7 +2,7 @@
 .idea/
 .vs/
 .vscode/
-Source/ScavengingExpansion/.idea
-Source/ScavengingExpansion/bin/*
-Source/ScavengingExpansion/obj/*
-Source/ScavengingExpansion/ScavengingExpansion.sln.DotSettings.user
+Source/PlantsOfTheRim/.idea
+Source/PlantsOfTheRim/bin/*
+Source/PlantsOfTheRim/obj/*
+Source/PlantsOfTheRim/PlantsOfTheRim.sln.DotSettings.user
